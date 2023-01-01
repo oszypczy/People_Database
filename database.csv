@@ -1,0 +1,4 @@
+id,name,birth_date,father_id,mother_id
+1,Jan Kowalski,1960-06-01,,
+2,Anna Wiśniewska,1962-01-06,,
+3,Adam Kowalski,1984-03-03,1,2
